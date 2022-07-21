@@ -1,5 +1,5 @@
 ---
-title: How to manage and share your dotfiles using homesick
+title: How to manage your dotfiles with homesick
 date: 2013-01-22
 emoji: 🏯
 categories: Programming

@@ -8,9 +8,9 @@
         {{ range .books }}
             <tr>
                 <td>{{ .emoji }} {{ .title }}</td>
-                <td>{{ .genre }}</td>
+                <td class="no-sm">{{ .genre }}</td>
                 <td>{{ .author }}</td>
-                <td>{{ .finished }}</td>
+                <td class="no-sm">{{ .finished }}</td>
             </tr>
         {{ end }}
     </table>

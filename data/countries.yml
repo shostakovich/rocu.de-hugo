@@ -1,0 +1,185 @@
+- 
+  continent: Europe
+  countries:
+  - 
+    name: Albania
+    emoji: 🇦🇱
+  -
+    name: Austria
+    emoji: 🇦🇹
+  -
+    name: Belgium
+    emoji: 🇧🇪
+  -
+    name: Bulgaria
+    emoji: 🇧🇬
+  -
+    name: Croatia
+    emoji: 🇭🇷
+  -
+    name: Czech Republic
+    emoji: 🇨🇿
+  -
+    name: Denmark
+    emoji: 🇩🇰
+  -
+    name: England
+    emoji: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  -
+    name: Estonia
+    emoji: 🇪🇪
+  -
+    name: Finland
+    emoji: 🇫🇮
+  -
+    name: France
+    emoji: 🇫🇷
+  -
+    name: Germany
+    emoji: 🇩🇪
+  -
+    name: Greece
+    emoji: 🇬🇷
+  -
+    name: Hungary
+    emoji: 🇭🇺
+  -
+    name: Iceland
+    emoji: 🇮🇸
+  -
+    name: Latvia
+    emoji: 🇱🇻
+
+  -
+    name: Ireland
+    emoji: 🇮🇪
+  -
+    name: Italy
+    emoji: 🇮🇹
+  -
+    name: Monaco
+    emoji: 🇲🇨
+  -
+    name: Netherlands
+    emoji: 🇳🇱
+  -
+    name: Norway
+    emoji: 🇳🇴
+  -
+    name: Slovenia
+    emoji: 🇸🇮
+  -
+    name: Spain
+    emoji: 🇪🇸
+  -
+    name: Poland
+    emoji: 🇵🇱
+  -
+    name: Portugal
+    emoji: 🇵🇹
+  -
+    name: Romania
+    emoji: 🇷🇴
+  -
+    name: Russia
+    emoji: 🇷🇺
+  -
+    name: Scotland
+    emoji: 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+  -
+    name: Serbia
+    emoji: 🇷🇸
+  -
+    name: Sweden
+    emoji: 🇸🇪
+  -
+    name: Switzerland
+    emoji: 🇨🇭
+  -
+    name: Turkey
+    emoji: 🇹🇷
+  -
+    name: Vatican City
+    emoji: 🇻🇦
+
+- 
+  continent: America
+  countries:
+  -
+    name: Argentina
+    emoji: 🇦🇷 
+  -
+    name: Belize
+    emoji: 🇧🇿
+  -
+    name: Canada
+    emoji: 🇨🇦
+  -
+    name: Cayman Islands
+    emoji: 🇰🇾
+  -
+    name: Colombia
+    emoji: 🇨🇴
+  -
+    name: Costa Rica
+    emoji: 🇨🇷
+  -
+    name: Honduras
+    emoji: 🇭🇳
+  -
+    name: Jamaica
+    emoji: 🇯🇲
+  -
+    name: Mexico
+    emoji: 🇲🇽
+  -
+    name: The Bahamas
+    emoji: 🇧🇸
+  -
+    name: Uruguay
+    emoji: 🇺🇾
+  -
+    name: USA
+    emoji: 🇺🇸
+-
+  continent: Africa
+  countries:
+  -
+    name: Egypt
+    emoji: 🇪🇬
+  -
+    name: South Africa
+    emoji: 🇿🇦
+-
+  continent: Asia
+  countries:
+  -
+    name: Hong Kong
+    emoji: 🇭🇰
+  -
+    name: India
+    emoji: 🇮🇳
+  -
+    name: Japan
+    emoji: 🇯🇵
+  -
+    name: Malaysia
+    emoji: 🇲🇾
+  -
+    name: Oman
+    emoji: 🇴🇲
+  -
+    name: Singapore
+    emoji: 🇸🇬
+  -
+    name: Sri Lanka
+    emoji: 🇱🇰
+  -
+    name: Thailand
+    emoji: 🇹🇭
+  -
+    name: United Arab Emirates
+    emoji: 🇦🇪
+  -
+    name: Vietnam
+    emoji: 🇻🇳

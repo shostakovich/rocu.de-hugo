@@ -1,0 +1,5 @@
+baseURL: 'http://rocu.de/'
+languageCode: 'en-us'
+title: rocu.de
+params:
+  emoji: 👨🏻‍💻

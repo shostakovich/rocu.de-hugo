@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+  {{ .Content }}
+
+  <div class="columns">
+    <div class="column">
+      <ul class="page-list">
+          <li>👨🏻‍💻 <a class="page-link" href="/about-me">About me</a></li>
+          <li>📙 <a class="page-link" href="/books-read">Books read</a></li>
+          <li>🌍 <a class="page-link" href="/countries-visited">Countries visited</a></li>
+      </ul>
+    </div>
+    <div class="column">
+        <ul class="page-list">
+          <li>🤳 <a class="page-link">Photos taken</a></li>
+          <li>🪧 <a class="page-link">Imprint + Contact</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>🖊 Blog</h2>
+
+  <ul class="page-list">
+    {{ range sort ( where .Site.RegularPages "Type" "posts" ) .Params.date "value" "desc" }}
+      <li>
+        {{ .Params.Emoji }} <a href="{{ .Permalink }}" class="page-link">{{ .Title }}</a>
+      </li>
+    {{ end }}
+{{ end }}

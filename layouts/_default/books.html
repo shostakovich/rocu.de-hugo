@@ -1,0 +1,18 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  {{ range $.Site.Data.books }}
+     <h2>{{ .year }}</h2>
+     
+     <table>
+        {{ range .books }}
+            <tr>
+                <td>{{ .emoji }} {{ .title }}</td>
+                <td>{{ .genre }}</td>
+                <td>{{ .author }}</td>
+                <td>{{ .finished }}</td>
+            </tr>
+        {{ end }}
+    </table>
+  {{ end }}
+{{ end }}

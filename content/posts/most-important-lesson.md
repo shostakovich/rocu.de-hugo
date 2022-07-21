@@ -1,6 +1,10 @@
-# The most important lesson
+---
+title: The most important lesson
+date: 2014-01-18
+emoji: 📍
+---
 
-![IMG_1985-1.jpg](The%20most%20important%20lesson%209073805288564b53bf86ef74b74ad72f/IMG_1985-1.jpg)
+![IMG_1985-1.jpg](/images/IMG_1985-1.jpg)
 
 Looking for future happiness does not work so well.
 

@@ -38,7 +38,7 @@ Being happy did not require change. It required acceptance.
 
 No.  Planning for the future has a place. Thinking about where you want to go is great. Of course it is.
 
-But realize that it is useful only up to a certain point. When planning turns into living in this future already, running away from what you have now, you have reached that point. You deprive yourself of  [life’s  free gifts](The%20best%20things%20in%20life%20are%20free!%2041816111f2b6414195d8f74576c8519c.md).
+But realize that it is useful only up to a certain point. When planning turns into living in this future already, running away from what you have now, you have reached that point. You deprive yourself of  [life’s  free gifts](the-best-things-in-life-are-free.md).
 
 ![IMG_0026.jpg](/images/IMG_0026.jpg)
 

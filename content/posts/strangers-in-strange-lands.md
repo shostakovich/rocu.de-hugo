@@ -1,5 +1,8 @@
-# Strangers in strange lands
-
+---
+title: Strangers in strange lands
+date: 2017-10-26
+emoji: 🌸
+---
 We can remember between 5 and 9 digits.
 
 So, why do we value our thoughts so much?

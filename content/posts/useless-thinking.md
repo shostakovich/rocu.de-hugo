@@ -1,8 +1,12 @@
-# Useless thinking
+---
+title: Useless thinking
+date: 2021-11-13
+emoji: 🧠
+---
 
 Most thoughts are pointless. In the past, I thought, that I think my thoughts. But this is obviously untrue. Can you really stop thinking? Do you really have control over your thoughts? Or do thoughts just come and go, and you jump to the conclusion, that you are the thinker. Is the feeling of being the thinker just a function of the brain?
 
-![b05dfaf144.jpg](Useless%20thinking%20260575e0032a407ca55bac792fcc1316/b05dfaf144.jpg)
+![b05dfaf144.jpg](/images/b05dfaf144.jpg)
 
 If this sounds crazy to you, try out a 10-minute meditation and focus on your breath (try not to think). I can almost guaranty that you, that you will notice, that you have almost no control about your thoughts. And that most of them are not helpful. You try to relax and they distract you.
 

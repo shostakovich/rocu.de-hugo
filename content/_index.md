@@ -2,7 +2,6 @@
 layout: home
 title: Robert Curth
 emoji: 👨🏻‍💻
-cover: fuji.jpg
 ---
 
 __Welcome to rocu.de, my personal website.__

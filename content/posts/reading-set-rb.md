@@ -1,4 +1,9 @@
-# Reading set.rb - tipps for working with Ruby sets.
+---
+title: Reading set.rb - tipps for working with Ruby sets.
+date: 2012-10-13
+emoji: 💾
+categories: Programming
+---
 
 I like to read code. Often I take notes and it's a shame that I did never share them. But it's never to late to start.
 

@@ -1,4 +1,8 @@
-# The rule of 72
+---
+title: The rule of 72
+date: 2015-04-22
+emoji: 💶
+---
 
 The rule of 72 is a rule that can answer you the question: How many years will my money need to double for a given interest rate?
 

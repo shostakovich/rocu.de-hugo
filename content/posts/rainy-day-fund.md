@@ -1,4 +1,8 @@
-# Saving for a rainy day
+---
+title: Saving for a rainy day
+date: 2015-04-13
+emoji: ☂️
+---
 
 How often do you get surprised by live and are not prepared?
 

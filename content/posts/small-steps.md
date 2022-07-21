@@ -1,4 +1,8 @@
-# The magic of small steps
+---
+title: The magic of small steps
+date: 2015-04-18
+emoji: 🚶‍♂️
+---
 
 I discovered the secret how you can achieve your goals.
 

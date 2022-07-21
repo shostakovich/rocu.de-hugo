@@ -1,5 +1,8 @@
-# The best things in life are free!
-
+---
+title: The best things in life are free!
+date: 2015-03-21
+emoji: 🌻
+---
 The best things in life are free. Never forget this!
 
 > If the stars should appear but one night every thousand years how man would marvel and stare.
@@ -8,7 +11,7 @@ The best things in life are free. Never forget this!
 > **Ralph Waldo Emerson**
 > 
 
-![IMG_3069.jpg](The%20best%20things%20in%20life%20are%20free!%2041816111f2b6414195d8f74576c8519c/IMG_3069.jpg)
+![IMG_3069.jpg](/images/IMG_3069.jpg)
 
 - **The sun** - Amazing for your mood and health. Good against feeling depressed.
 - **Love** - Absolutely free.

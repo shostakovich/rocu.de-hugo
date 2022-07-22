@@ -57,6 +57,10 @@ nav {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  position:sticky;
+  top: 0;
+  background-color: var(--body-background-color);
+  z-index: 1;
 }
 
 nav a {

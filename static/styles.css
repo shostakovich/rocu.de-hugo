@@ -89,7 +89,7 @@ main img {
   max-width: 100%;
 }
 
-.highlight pre {
+pre {
   padding: 10px;
   font-size: 1.15em;
   overflow-x: scroll;

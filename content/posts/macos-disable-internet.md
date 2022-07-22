@@ -5,9 +5,8 @@ emoji: 🚫
 categories: Programming
 ---
 
-<aside>
-💡 **Little update (18.09.21):** I do use [Freedom](https://freedom.to/) now. It got even more expensive - but it syncs between all my devices and changed from a simple internet kill-switch to something even more useful. I found it great to disable news sites and other addictive sites during the corona years.
-</aside>
+
+> 💡 **Little update (18.09.21):** I do use [Freedom](https://freedom.to/) now. It got even more expensive - but it syncs between all my devices and changed from a simple internet kill-switch to something even more useful. I found it great to disable news sites and other addictive sites during the corona years.
 
 From time to time, I really want to make it hard for me to seek for distractions.
 

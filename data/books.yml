@@ -1,6 +1,11 @@
 - year: 2022
   books:
   -
+    title: The dragon reborn
+    emoji:  
+    genre: Fantasy
+    finished: 26/07/2022
+  -
     title: The kingdom
     emoji: 👑
     genre: Thriller

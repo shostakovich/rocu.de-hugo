@@ -19,7 +19,7 @@
   <div class="photos-list">
     {{ range $.Site.Data.photos }}
         <div class="photo">
-          <img lazyload src="/photos/{{ .photo }}" alt="{{ .name }}" />
+          <img loading="lazy" src="/photos/{{ .photo }}" alt="{{ .name }}" />
           <strong>{{.emoji}} {{ .name }}</strong> <br />
           <i>{{ .date }}</i><br />
           {{ .location }} <br />

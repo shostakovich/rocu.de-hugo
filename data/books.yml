@@ -1,6 +1,12 @@
 - year: 2022
   books:
   -
+    title: Lauf, Wigald, Lauf!
+    emoji: 🎽
+    genre: Non-Fiction
+    author: Wigald Boning
+    finished: 01/08/2022
+  -
     title: The dragon reborn
     emoji: 🐲
     genre: Fantasy

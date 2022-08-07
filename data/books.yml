@@ -1,6 +1,12 @@
 - year: 2022
   books:
   -
+    title: Count Zero
+    emoji: 📟
+    genre: Cyberpunk
+    author: William Gibson
+    finished: 07/08/2022
+  -
     title: Lauf, Wigald, Lauf!
     emoji: 🎽
     genre: Non-Fiction

@@ -15,7 +15,6 @@
     <nav>
       {{ .Site.Params.Emoji }} <a href="/">{{ .Site.Title }}</a>{{ if not .IsHome }} <span class="divider">/</span> {{ .Params.Emoji }} {{ .Title }}{{ end }}
     </nav>
-    {{ if .Params.Cover }}<div class="cover" style="background-image: url('/covers/{{ .Params.Cover }}')"></div>{{ end }}
     <main>
       {{ if .Params.emoji }}<div class="emoji">{{ .Params.emoji }}</div>{{ end }}
       <h1>{{ .Title }}</h1>

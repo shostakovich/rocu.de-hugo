@@ -1,6 +1,12 @@
 - year: 2022
   books:
   -
+    title: The Art of Rest
+    emoji: 🪶
+    genre: Non-Fiction
+    author: Claudia Hammond
+    finished: 15/08/2022  
+  -
     title: Count Zero
     emoji: 📟
     genre: Cyberpunk

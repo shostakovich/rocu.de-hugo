@@ -1,5 +1,10 @@
 - year: 2022
   books:
+  - title: Rationality.
+    emoji: 🧮
+    genre: Non-Fiction
+    author: Steven Pinker
+    finished: 22/08/2022
   -
     title: The Art of Rest
     emoji: 🪶

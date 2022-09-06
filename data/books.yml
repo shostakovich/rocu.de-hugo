@@ -1,6 +1,19 @@
 - year: 2022
   books:
-  - title: Rationality.
+  - 
+    title: Bite Force
+    emoji: 🩸
+    genre: Thriller
+    author: J.A. Konrath
+    finished: 04/09/2022
+  - 
+    title: Old Fashioned
+    emoji: 🥃
+    genre: Thriller
+    author: J.A. Konrath
+    finished: 30/08/2022
+  - 
+    title: Rationality.
     emoji: 🧮
     genre: Non-Fiction
     author: Steven Pinker

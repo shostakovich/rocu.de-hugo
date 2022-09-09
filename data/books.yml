@@ -1,6 +1,12 @@
 - year: 2022
   books:
   - 
+    title: Cibola brennt
+    emoji: 🌏
+    genre: SciFi
+    author: James S. A. Corey
+    finished: 09/09/2022  
+  - 
     title: Bite Force
     emoji: 🩸
     genre: Thriller

@@ -1,5 +1,47 @@
 - year: 2022
   books:
+  -
+    title: Stone Bruises
+    emoji: 🐖
+    genre: Thriller
+    author: Simon Beckett
+    finished: 23/11/2022
+  -
+    title: Son of Svea
+    emoji: 🧑‍🍼
+    genre: Novel
+    author: Lena Andersson
+    finished: 21/11/2022
+  - 
+    title: München 72
+    emoji: 🔫
+    genre: Historical Fiction
+    author: Petra Mattfeldt
+    finished: 14/11/2022  
+  - 
+    title: Vakuum
+    emoji: 👨🏽‍🚀
+    genre: SciFi
+    author: Philip P. Peterson
+    finished: 12/11/2022  
+  - 
+    title: Faul zu sein ist harte Arbeit
+    emoji: 🦥
+    genre: Non-Fiction
+    author: Martin Liebmann
+    finished: 09/11/2022  
+  - 
+    title: The Collector
+    emoji: 🇩🇰
+    genre: Thriller
+    author: Anne Mette Hancock
+    finished: 03/11/2022  
+  - 
+    title: Thinking in Bets
+    emoji: 🎴
+    genre: Non-Fiction
+    author: Annie Duke
+    finished: 02/11/2022  
   - 
     title: Cibola Burn
     emoji: 🌏

@@ -1,6 +1,18 @@
 - year: 2022
   books:
   -
+    title: The Dime
+    emoji: 🧑‍🦰
+    genre: Thriller
+    author: Kathleen Kent
+    finished: 27/11/2022
+  -
+    title: You Need a Budget
+    emoji: 💶
+    genre: Non-Fiction
+    author: Jesse Mecham
+    finished: 24/11/2022
+  -
     title: Stone Bruises
     emoji: 🐖
     genre: Thriller

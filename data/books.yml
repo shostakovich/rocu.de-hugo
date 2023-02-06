@@ -1,6 +1,12 @@
 - year: 2023
   books:
   -
+    title: The case for Keto
+    emoji: 🥥
+    genre: Non-Fiction
+    author: Gary Taubes
+    finished: 06/02/23  
+  -
     title: The 6 Minute-Success Journal
     emoji: 📗
     genre: Non-Fiction

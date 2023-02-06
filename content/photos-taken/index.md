@@ -6,6 +6,13 @@ layout: single
 
 These are my mediocre photos. I do not use Instagram, so I post them here.
 
+## 🏔️ Winter in Bodemais
+
+Bodemais, Germany _December 09, 2022_
+
+{{< img src="photos/bodenmais_winter.jpg" alt="" >}}
+
+
 ## ⛰️ Bodenmais
 
 Bodemais, Germany _July 26, 2022_

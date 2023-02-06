@@ -133,6 +133,10 @@ hr {
   padding-left: 0;
 }
 
+.books {
+  width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
   .no-sm {
     display: none;

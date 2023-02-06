@@ -2,9 +2,9 @@
   {{ .Content }}
 
   {{ range $.Site.Data.books }}
-     <h2>{{ .year }}</h2>
-     
-     <table>
+     <h2>{{ .year }} ({{ len .books }} books)</h2>
+
+     <table class="books">
         {{ range .books }}
             <tr>
                 <td>{{ .emoji }} {{ .title }}</td>

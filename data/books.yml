@@ -1,5 +1,104 @@
+- year: 2023
+  books:
+  -
+    title: The 6 Minute-Success Journal
+    emoji: 📗
+    genre: Non-Fiction
+    author: Dominik Spenst
+    finished: 03/02/23
+  -
+    title: "Ketocontinuum: Conistentry Keto diet for life"
+    emoji: 🥓
+    genre: Non-Fiction
+    author: Annette Bosworth
+    finished: 01/02/23
+  -
+    title: Lifespan
+    emoji: 🧬
+    genre: Non-Fiction
+    author: David A. Sinclair
+    finished: 23/01/23
+  -
+    title: Stolen Focus 
+    emoji: 🎯
+    genre: Non-Fiction
+    author: Johann Hari
+    finished: 20/01/23
+  -
+    title: Persepolis Rising 
+    emoji: 👾
+    genre: SciFi
+    author: James S. A. Corey
+    finished: 16/01/23
+  -
+    title: QualityLand 2.0
+    emoji: 🤖
+    genre: Fiction
+    author: Marc-Uwe Kling
+    finished: 10/01/23
+  -
+    title: All the Light We Cannot See
+    emoji: 🪖
+    genre: Fiction
+    author: Anthony Doerr
+    finished: 08/01/23
+  -
+    title: Per Lastenrad durch die Galaxis
+    emoji: 🌌
+    genre: Non-Fiction
+    author: Ruth Grützbauch
+    finished: 05/01/23
+  -
+    title: The Winner Stands Alone
+    emoji: 🎥
+    genre: Fiction
+    author: Paulo Coelho
+    finished: 04/01/23
+  -
+    title: The Phoenix Project
+    emoji: 🧑🏻‍💻
+    genre: Non-Fiction
+    author: Gene Kim
+    finished: 01/01/23
+  -
+    title: Babylon’s Ashes
+    emoji: 👩🏼‍🚀
+    genre: SciFi
+    author: James S. A. Corey
+    finished: 01/01/23
+  -
+    title: The Daily Stoic
+    emoji: 🏛️
+    genre: Spiritual
+    author: Ryan Holiday
+    finished: 01/01/23
+
 - year: 2022
   books:
+  -
+    title: Blutbuch
+    emoji: 🌳
+    genre: Fiction
+    author: Kim de l'Horizon
+    finished: 19/12/2022
+  -
+    title: On the Brink of Eternity
+    emoji: 👩🏽‍🚀
+    genre: SciFi
+    author: Philip P. Peterson
+    finished: 14/12/2022
+  -
+    title: Nemesis Games
+    emoji: 🎲
+    genre: SciFi
+    author: James S. A. Corey
+    finished: 08/12/2022
+  -
+    title: The Prophet and the Idiot
+    emoji: 🧑‍🍳
+    genre: Novel
+    author: Jonas Jonasson
+    finished: 02/12/2022
   -
     title: The Dime
     emoji: 🧑‍🦰

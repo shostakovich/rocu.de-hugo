@@ -1,6 +1,12 @@
 - year: 2023
   books:
   -
+    title: Killing Commendatore
+    emoji: 🧑🏻‍🎨
+    genre: Fiction
+    author: Haruki Murakami
+    finished: 07.03.23
+  -
     title: Cloud Cuckoo Land
     emoji: ☁️
     genre: Fiction

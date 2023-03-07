@@ -1,6 +1,7 @@
 ---
 date: 2023-03-04
 short: true
+emoji: 🎪
 ---
 
 I really enjoy playing Octopath Traveler II, a classic JRPG, that reminds me of the games of my childhood.

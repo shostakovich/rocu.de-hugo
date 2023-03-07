@@ -118,11 +118,6 @@ hr {
   font-weight: 500;
 }
 
-.post {
-  padding: 1rem 0;
-  margin-bottom: 0.5rem;
-}
-
 .post:last-child {
   border-bottom: none
 }
@@ -135,7 +130,7 @@ hr {
 .post-date {
   clear: both;
   color: grey;
-  margin-top: 1em;
+
   font-size: 0.9em;
 }
 
@@ -144,7 +139,7 @@ hr {
 }
 
 .post-emoji {
-  font-size: 4.5rem;
+  font-size: 2.5rem;
   line-height: 1em;
   margin: 1.5rem 0.5rem 0 0
 }

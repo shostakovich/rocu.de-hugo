@@ -4,10 +4,8 @@ title: Robert Curth
 emoji: 👨🏻‍💻
 ---
 
-__Welcome to rocu.de, my personal website.__
+__rocu.de__, my personal website, is turning 22 this year.
 
-I tried a lot of hosting options during the over 20 years of it existence. First I manually wrote my own HTML, then came hand-crafted PHP, Wordpress, Ghost, Rails, Jekyll, Micro.blog - just to name a few approaches.
+That is when I started building websites using HTML, images and state-of-the art table layouts.
 
-Nowadays, I program so much at work, that I decided to not maintain my own blog anymore.
-
-What you see here is only a public part of my Notion Workspace.
+The web has come a long way since then and during the last 15 years I build complex web-applications for a living - mostly using PHP and Ruby on Rails.

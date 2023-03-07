@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  {{ .Content }}
+
 
   <div class="columns">
     <div class="column">
@@ -18,12 +18,42 @@
     </div>
   </div>
 
+  {{ .Content }}
+
+  <hr />
+
   <h2>🖊 Blog</h2>
 
-  <ul class="page-list">
+
+  <div class="page-list">
     {{ range sort ( where .Site.RegularPages "Type" "posts" ) .Params.date "value" "desc" }}
-      <li>
-        {{ .Params.Emoji }} <a href="{{ .Permalink }}" class="page-link">{{ .Title }}</a>
-      </li>
+      <article class="post">
+      {{ if isset .Params "short" }}
+            <div class="post-shortBody">
+              {{ if isset .Params "emoji" }}
+                <div class="post-emoji">{{ .Params.Emoji }}</div>
+              {{ end }}
+              <div class="post-content">
+                <p>{{ .Content }}</p>
+              </div>
+            </div>
+            <div class="post-date">{{ .Date | time.Format ":date_medium" }}</div>
+        {{ else }}
+          <a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
+
+          <div class="post-shortBody">
+            <div class="post-emoji">{{ .Params.Emoji }}</div>
+            <div class="post-content">
+                <p>
+                  {{ .Summary }}
+                  <a href="{{ .Permalink }}" class="page-link" title="{{ .Title }}">...</a>
+                </p>
+            </div>
+          </div>
+          <div class="post-date">{{ .Date | time.Format ":date_medium" }}</div>
+        </div>
+        {{ end }}
+      </article>
     {{ end }}
+  </div>
 {{ end }}

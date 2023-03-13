@@ -1,6 +1,12 @@
 - year: 2023
   books:
   -
+    title: How to kill your family
+    emoji: 🔪
+    genre: Thriller
+    author: Bella Mackie
+    finished: 13.03.23
+  -
     title: Killing Commendatore
     emoji: 🧑🏻‍🎨
     genre: Fiction

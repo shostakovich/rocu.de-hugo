@@ -8,7 +8,7 @@
      <table class="books">
         {{ range .books }}
             <tr>
-                <td>{{ .emoji }} {{ .title }}</td>
+                <td class="max">{{ .emoji }} {{ .title }}</td>
                 <td class="no-sm">{{ .genre }}</td>
                 <td>{{ .author }}</td>
                 <td class="no-sm">{{ .finished }}</td>

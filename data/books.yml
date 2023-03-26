@@ -1,5 +1,37 @@
+- year: Currently reading
+  books:
+  -
+    title: Project Zero Trust
+    emoji: 🔐
+    genre: Non-Fiction (IT)
+    author: George Finney
+    finished:
+  -
+   title: Girl on the train
+   emoji: 🚋
+   genre: Novel
+   author: Paula Hawkins
+
 - year: 2023
   books:
+  -
+    title: The Midnight Library
+    emoji: 📚
+    genre: Novel
+    author: Matt Haig
+    finished: 23.03.23
+  -
+    title: Prinzessin Insomnia & der alptraumfarbene Nachtmahr
+    emoji: 👸🏿
+    genre: Novel
+    author: Walter Moers
+    finished: 20.03.23
+  -
+    title: Sweet Sweet Revenge Ltd.
+    emoji: 🛖
+    genre: Novel
+    author: Jonas Jonasson
+    finished: 15.03.23
   -
     title: How to kill your family
     emoji: 🔪
@@ -104,319 +136,319 @@
     emoji: 🌳
     genre: Fiction
     author: Kim de l'Horizon
-    finished: 19.12.2022
+    finished: 19.12.22
   -
     title: On the Brink of Eternity
     emoji: 👩🏽‍🚀
     genre: SciFi
     author: Philip P. Peterson
-    finished: 14.12.2022
+    finished: 14.12.22
   -
     title: Nemesis Games
     emoji: 🎲
     genre: SciFi
     author: James S. A. Corey
-    finished: 08.12.2022
+    finished: 08.12.22
   -
     title: The Prophet and the Idiot
     emoji: 🧑‍🍳
     genre: Novel
     author: Jonas Jonasson
-    finished: 02.12.2022
+    finished: 02.12.22
   -
     title: The Dime
     emoji: 🧑‍🦰
     genre: Thriller
     author: Kathleen Kent
-    finished: 27.11.2022
+    finished: 27.11.22
   -
     title: You Need a Budget
     emoji: 💶
     genre: Non-Fiction
     author: Jesse Mecham
-    finished: 24.11.2022
+    finished: 24.11.22
   -
     title: Stone Bruises
     emoji: 🐖
     genre: Thriller
     author: Simon Beckett
-    finished: 23.11.2022
+    finished: 23.11.22
   -
     title: Son of Svea
     emoji: 🧑‍🍼
     genre: Novel
     author: Lena Andersson
-    finished: 21.11.2022
+    finished: 21.11.22
   -
     title: München 72
     emoji: 🔫
     genre: Historical Fiction
     author: Petra Mattfeldt
-    finished: 14.11.2022
+    finished: 14.11.22
   -
     title: Vakuum
     emoji: 👨🏽‍🚀
     genre: SciFi
     author: Philip P. Peterson
-    finished: 12.11.2022
+    finished: 12.11.22
   -
     title: Faul zu sein ist harte Arbeit
     emoji: 🦥
     genre: Non-Fiction
     author: Martin Liebmann
-    finished: 09.11.2022
+    finished: 09.11.22
   -
     title: The Collector
     emoji: 🇩🇰
     genre: Thriller
     author: Anne Mette Hancock
-    finished: 03.11.2022
+    finished: 03.11.22
   -
     title: Thinking in Bets
     emoji: 🎴
     genre: Non-Fiction
     author: Annie Duke
-    finished: 02.11.2022
+    finished: 02.11.22
   -
     title: Cibola Burn
     emoji: 🌏
     genre: SciFi
     author: James S. A. Corey
-    finished: 09.09.2022
+    finished: 09.09.22
   -
     title: Bite Force
     emoji: 🩸
     genre: Thriller
     author: J.A. Konrath
-    finished: 04.09.2022
+    finished: 04.09.22
   -
     title: Old Fashioned
     emoji: 🥃
     genre: Thriller
     author: J.A. Konrath
-    finished: 30.08.2022
+    finished: 30.08.22
   -
     title: Rationality.
     emoji: 🧮
     genre: Non-Fiction
     author: Steven Pinker
-    finished: 22.08.2022
+    finished: 22.08.22
   -
     title: The Art of Rest
     emoji: 🪶
     genre: Non-Fiction
     author: Claudia Hammond
-    finished: 15.08.2022
+    finished: 15.08.22
   -
     title: Count Zero
     emoji: 📟
     genre: Cyberpunk
     author: William Gibson
-    finished: 07.08.2022
+    finished: 07.08.22
   -
     title: Lauf, Wigald, Lauf!
     emoji: 🎽
     genre: Non-Fiction
     author: Wigald Boning
-    finished: 01.08.2022
+    finished: 01.08.22
   -
     title: The dragon reborn
     emoji: 🐲
     genre: Fantasy
     author: Robert Jordan
-    finished: 26.07.2022
+    finished: 26.07.22
   -
     title: The kingdom
     emoji: 👑
     genre: Thriller
     author: Jo Nesbø
-    finished: 19.06.2022
+    finished: 19.06.22
   -
     title: Zwetschgendatschikomplott
     emoji: 🍰
     genre: Regional Crime
     author: Rita Falk
-    finished: 15.06.2022
+    finished: 15.06.22
   -
     title: Mind over money
     emoji: 💵
     genre: Non-Fiction
     author: Claudia Hammond
-    finished: 14.06.2022
+    finished: 14.06.22
   -
     title: Im Frühling sterben
     emoji: 🌸
     genre: Novel
     author: Ralf Rothmann
-    finished: 09.06.2022
+    finished: 09.06.22
   -
     title: Connecting With The Autism Spectrum
     emoji: 🤟
     genre: Non-Fiction
-    author: Casey "Remrov" Vormer
-    finished: 06.06.2022
+    author: Casey Vormer
+    finished: 06.06.22
   -
     title: The great hunt
     emoji: 📯
     genre: Fantasy
     author: Robert Jordan
-    finished: 02.06.2022
+    finished: 02.06.22
   -
     title: Brennerova
     emoji: 🪆
     genre: Regional Crime
     author: Wolf Haas
-    finished: 24.05.2022
+    finished: 24.05.22
   -
     title: Die Para-Bank (Perry Rhodan 67)
     emoji: 👨‍🚀
     genre: SciFi
     author: Perry Rhodan
-    finished: 16.05.2022
+    finished: 16.05.22
   -
     title: 'Abaddon''s Gate'
     emoji: 🌒
     genre: SciFi
     author: James S. A. Corey
-    finished: 10.05.2022
+    finished: 10.05.22
   -
     title: Müll
     emoji: ♻️
     genre: Regional Crime
     author: Wolf Haas
-    finished: 04.05.2022
+    finished: 04.05.22
   -
     title: "Wild: From Lost to Found on the Pacific Crest Trail"
     emoji: 🥾
     genre: Non-Fiction
     author: Cheryl Strayed
-    finished: 04.05.2022
+    finished: 04.05.22
   -
     title: All These Worlds
     emoji: 🌏
     genre: SciFi
     author: Dennis E. Taylor
-    finished: 30.04.2022
+    finished: 30.04.22
   -
     title: The eye of the world
     emoji: ⚔️
     genre: Fantasy
     author: Robert Jordan
-    finished: 27.04.2022
+    finished: 27.04.22
   -
     title: For we are many
     emoji: 👾
     genre: SciFi
     author: Dennis E. Taylor
-    finished: 15.04.2022
+    finished: 15.04.22
   -
     title: Never
     emoji: 💣
     genre: Thriller
     author: Ken Follet
-    finished: 14.04.2022
+    finished: 14.04.22
   -
     title: Strategien der Selbstheilung
     emoji: 🏃
     genre: Non-Fiction
     author: Ulrich Strunz
-    finished: 14.04.2022
+    finished: 14.04.22
   -
     title: We Are Legion (We Are Bob)
     emoji: 🤖
     genre: SciFi
     author: Dennis E. Taylor
-    finished: 11.04.2022
+    finished: 11.04.22
   -
     title: Enlightenment now
     emoji: 💡
     genre: Non-Fiction
     author: Steven Pinker
-    finished: 09.04.2022
+    finished: 09.04.22
   -
     title: The Emperors Soul
     emoji: 🤴
     genre: Fantasy
     author: Brandon Sanderson
-    finished: 05.04.2022
+    finished: 05.04.22
   -
     title: Allmen und der Koi
     emoji: 🐠
     genre: Crime
     author: Martin Suter
-    finished: 03.04.2022
+    finished: 03.04.22
   -
     title: Du darfst nicht alles glauben, was du denkst
     emoji: 🧠
     genre: Non-Fiction
     author: Kurt Krömer
-    finished: 24.03.2022
+    finished: 24.03.22
   -
     title: The Thousand Autumns of Jacob de Zoet
     emoji: 🇯🇵
     genre: Novel
     author: David Mitchell
-    finished: 13.03.2022
+    finished: 13.03.22
   -
     title: Empire of Grass
     emoji: 👑
     genre: Fantasy
     author: Tad Williams
-    finished: 02.03.2022
+    finished: 02.03.22
   -
     title: Realizing the Power of Now
     emoji: 🕯️
     genre: Spirituality
     author: Eckhart Tolle
-    finished: 22.02.2022
+    finished: 22.02.22
   -
     title: Natrium Chlorid
     emoji: 🧂
     genre: Thriller
     author: Jussi Adler-Olsen
-    finished: 08.02.2022
+    finished: 08.02.22
   -
     title: Lost Connections
     emoji: 🙍🏻‍♂️
     genre: Non-Fiction
     author: Johann Hari
-    finished: 03.02.2022
+    finished: 03.02.22
   -
     title: Nothing To Lose
     emoji: 🚓
     genre: Thriller
     author: Lee Child
-    finished: 31.01.2022
+    finished: 31.01.22
   -
     title: The Whale at the End of the World
     emoji: 🐋
     genre: Novel
     author: John. Ironmonger
-    finished: 12.01.2022
+    finished: 12.01.22
   -
     title: Caliban’s War
     emoji: 🚀
     genre: SciFi
     author: James S. A. Corey
-    finished: 09.01.2022
+    finished: 09.01.22
   -
     title: Mr. Penumbra’s 24-Hour Bookstore
     emoji: 📓
     genre: Novel
     author: Robin Sloan
-    finished: 06.01.2022
+    finished: 06.01.22
   -
     title: Leviathan Wakes
     emoji: 🛰️
     genre: SciFi
     author: James S. A. Corey
-    finished: 05.01.2022
+    finished: 05.01.22
   -
     title: Universum
     emoji: 🌖
     genre: SciFi
     author: Phillip P. Peterson
-    finished: 02.01.2022
+    finished: 02.01.22
 
 - year: 2021
   books:
@@ -425,70 +457,70 @@
     emoji: ✨
     genre: SciFi
     author: Christopher Paolini
-    finished: 19.12.2021
+    finished: 19.12.21
   -
     title: Starsight
     emoji: 🚀
     genre: SciFi
     author: Brandon Sanderson
-    finished: 02.12.2021
+    finished: 02.12.21
   -
     title: Achtung Steinschlag!
     emoji: ☄️
     genre: Non-Fiction
     author: Christian Köberl
-    finished: 16.11.2021
+    finished: 16.11.21
   -
     title: Skyward
     emoji: 👩🏼‍🚀
     genre: SciFi
     author: Brandon Sanderson
-    finished: 11.11.2021
+    finished: 11.11.21
   -
     title: Tod und Teufel
     emoji: 🗡️
     genre: Regional Crime
     author: Frank Schätzing
-    finished: 06.11.2021
+    finished: 06.11.21
   -
     title: Singularity
     emoji: 🛰️
     genre: SciFi
     author: Joshua Tree
-    finished: 06.11.2021
+    finished: 06.11.21
   -
     title: On the Steel Breeze
     emoji: 🔭
     genre: SciFi
     author: Alastair Reynolds
-    finished: 20.09.2021
+    finished: 20.09.21
   -
     title: Beatlebone
     emoji: 🎤
     genre: Novel
     author: Kevin Barry
-    finished: 20.09.2021
+    finished: 20.09.21
   -
     title: Das Kind in mir will achtsam morden
     emoji: 🧘🏻‍♂️
     genre: Thriller
     author: Karsten Dusse
-    finished: 18.09.2021
+    finished: 18.09.21
   -
     title: Der Stempelmörder
     emoji: ☠️
     genre: Regional Crime
     author: Torsten Schönberg
-    finished: 16.09.2021
+    finished: 16.09.21
   -
     title: Blue Remembered Earth
     emoji: 🌏
     genre: SciFi
     author: Alastair Reynolds
-    finished: 03.09.2021
+    finished: 03.09.21
   -
     title: The Millionaire Next Door
     emoji: 💰
     genre: Personal Finance
     author: Dr. Thomas J. Stanley
-    finished: 03.09.2021
+    finished: 03.09.21

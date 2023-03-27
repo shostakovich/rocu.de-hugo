@@ -5,15 +5,19 @@
     emoji: 🔐
     genre: Non-Fiction (IT)
     author: George Finney
-    finished:
   -
-   title: Girl on the train
-   emoji: 🚋
-   genre: Novel
-   author: Paula Hawkins
+    title: Girl on the train
+    emoji: 🚋
+    genre: Novel
+    author: Paula Hawkins
 
 - year: 2023
   books:
+  -
+    title: Norwegian Wood
+    emoji: 👩🏻
+    genre: Novel
+    author: Haruki Murakami
   -
     title: The Midnight Library
     emoji: 📚
@@ -21,7 +25,7 @@
     author: Matt Haig
     finished: 23.03.23
   -
-    title: Prinzessin Insomnia & der alptraumfarbene Nachtmahr
+    title: Prinzessin Insomnia &amp; der alptraumfarbene Nachtmahr
     emoji: 👸🏿
     genre: Novel
     author: Walter Moers
@@ -264,7 +268,7 @@
     author: Jo Nesbø
     finished: 19.06.22
   -
-    title: Zwetschgendatschikomplott
+    title: "Zwetschgen&shy;datschi&shy;komplott"
     emoji: 🍰
     genre: Regional Crime
     author: Rita Falk

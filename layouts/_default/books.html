@@ -9,8 +9,7 @@
         {{ range .books }}
             <tr>
                 <td class="max">{{ .emoji }} {{ .title | safeHTML }}</td>
-                <td class="no-sm">{{ .genre }}</td>
-                <td align="right">{{ .author }}</td>
+                <td>{{ .author }}</td>
                 <td class="no-sm">{{ .finished }}</td>
             </tr>
         {{ end }}

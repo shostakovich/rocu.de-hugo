@@ -1,25 +1,145 @@
-- year: Currently reading
+- year: 2023
   books:
   -
-    title: Hear the Wind Sing
-    emoji: 💨
+    title: "Humankind: A Hopeful History"
+    emoji: 🫶🏻
+    author: Rutger Bregman
+    finished: 28.06.23
+  -
+    title: Swann's Way (Remembrance of Things Past 1)
+    emoji: 🖋️
+    author: Marcel Proust
+    finished: 26.06.23
+  -
+    title: 1Q84 Book 3
+    emoji: 🎎
+    author:  Haruki Murakami
+    finished: 25.06.23
+  -
+    title: Listen to me
+    emoji: 👵🏼
+    author:  Tess Gerritsen
+    finished: 18.06.23
+  -
+    title: Permanent Record
+    emoji: 👨🏻‍💻
+    author:  Edward Snowden
+    finished: 14.06.23
+  -
+    title: 1Q84 Book 1/2
+    emoji: 🎎
+    author:  Haruki Murakami
+    finished: 13.06.23
+  -
+    title: Das Anti Universum (Perry Rhodan 68)
+    emoji: 🪐
+    author:  Perry Rhodan
+    finished: 10.06.23
+  -
+    title: The Ministry for the Future
+    emoji: 🔮
+    author: Kim Stanley Robinson
+    finished: 01.06.23
+  -
+    title: Killing Moon
+    emoji: 🌖
+    author: Jo Nesbø
+    finished: 23.05.23
+  -
+    title: The Loop
+    emoji: 🔗
+    author: Ben Oliver
+    finished: 22.05.23
+  -
+    title: Eines Menschen Flügel
+    emoji: 🧚🏿
+    author: Andreas Eschbach
+    finished: 20.05.23
+  -
+    title: Der große Sommer
+    emoji: 🤿
+    author: Ewald Arenz
+    finished: 17.05.23
+  -
+    title: All that Remains
+    emoji: 🦴
+    author: Patricia Cornwell
+    finished: 15.05.23
+  -
+    title: The Shape of Night
+    emoji: ⛵️
+    author: Tess Gerritsen
+    finished: 12.05.23
+  -
+    title: Mit aller Macht
+    emoji: 🕵🏻
+    author: Rainer Wittkamp
+    finished: 05.05.23
+  -
+    title: The Disturbance
+    emoji: 👩🏻‍🚀
+    author: Brandon Q. Morris
+    finished: 01.05.23
+  -
+    title: Hard Land
+    emoji: 🧍🏼
+    author: Benedict Wells
+    finished: 01.05.23
+  -
+    title: Babel
+    emoji: 🛕
+    author: R. F. Kuang
+    finished: 29.04.23
+  -
+    title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+    emoji: 🧑🏻‍💼
     author: Haruki Murakami
+    finished: 17.04.23
+  -
+    title: Der Turm der blauen Pferde
+    emoji: 🐎
+    author: Bernhard Jaumann
+    finished: 14.04.23
+  -
+    title: Leviathan Falls
+    emoji: 👩🏻‍🚀
+    author: James S. A. Corey
+    finished: 11.04.23
   -
     title: Project Zero Trust
     emoji: 🔐
     author: George Finney
+    finished: 03.04.23
+  -
+    title: Red Notice
+    emoji: 🇷🇺
+    author: Bill Browder
+    finished: 03.04.23
   -
     title: Girl on the train
     emoji: 🚋
     author: Paula Hawkins
-
-- year: 2023
-  books:
+    finished: 01.04.23
+  -
+    title: Tiamath's Wrath
+    emoji: 👩🏻‍🚀
+    author: James S. A. Corey
+    finished: 31.03.23
+  -
+    title: Pinball, 1973
+    emoji: 🧑🏻
+    author: Haruki Murakami
+    finished: 27.03.23
+  -
+    title: Hear the Wind Sing
+    emoji: 💨
+    author: Haruki Murakami
+    finished: 27.03.23
   -
     title: Norwegian Wood
     emoji: 👩🏻
     author: Haruki Murakami
-    finished: 27.03.23
+    finished: 26.03.23
   -
     title: The Midnight Library
     emoji: 📚

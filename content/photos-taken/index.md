@@ -6,6 +6,12 @@ layout: single
 
 These are my mediocre photos. I do not use Instagram, so I post them here.
 
+## Colorful houses in Greenland
+
+Nanortalik, Greenland _July 14, 2023_
+
+{{< img src="photos/nanortalik.jpg" alt="" >}}
+
 ## 🏔️ Winter in Bodemais
 
 Bodemais, Germany _December 09, 2022_

@@ -3,17 +3,18 @@ title: About me
 emoji: 👨🏻‍💻
 ---
 
-Hi. My name is Robert Curth. I am 38 years old and live in Munich (Germany).
+
+Hi. My name is Robert Curth. I am 39 years old and live in Munich (Germany).
 
 ## Programmer
 
-I am a part-time programmer at [Pharos](https://www.pharos.de/home/) and a worker-owner at [TechGenossen](https://techgenossen.de).
+I am a freelance web-developer. I work for [Pharos](https://www.pharos.de/home/) and am a worker-owner at [TechGenossen eG](https://techgenossen.de).
 
 I program in Ruby (on Rails) these days on [Webgate.io](https://webgate.io/) and various TechGenossen projects.
 
 ## Traveler
 
-I travel a lot. I visited [~45 countries](/countries-visited) during my lifetime. Most of them in the last 10 years.
+I travel a lot. I visited [58 countries](/countries-visited) during my lifetime. Most of them during the last 15 years.
 
 ## Self-improver
 

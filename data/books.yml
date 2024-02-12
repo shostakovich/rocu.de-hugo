@@ -1,9 +1,157 @@
+- year: 2024
+  books:
+  -
+    title: Outlive
+    emoji: 🧬
+    author: Peter Attia
+    finished: 06.01.24
+  -
+    title: Märzgefallene
+    emoji: 🪦
+    author: Volker Kutscher
+    finished: 09.01.24
 - year: 2023
   books:
+  -
+    title: Pathfinders
+    author: JL Collins
+    emoji: 🧭
+    finished: 16.12.24
+  -
+    title: Kein Guter Mann
+    emoji: 🏤
+    author: Andreas Izquierdo
+    finished: 15.12.23
+  -
+    title: The Last Emperox
+    emoji: 👩🏻‍🚀
+    author: John Scalzi
+    finished: 27.11.23
+
+  - 
+    title: "Going Infinite: The Rise and Fall of a New Tycoon"
+    emoji: 🎰
+    author: Michael Lewis
+    finished: 24.11.23
+  -
+    title: Monde vor der Landung
+    author: Clemens J. Setz
+    emoji: 🌕
+    finished: 15.11.23
+  -
+    title: Machines like me (and people like you)
+    author: Ian Mc Ewan
+    emoji: 🤖
+    finished: 29.10.23
+  -
+    title: Jack Rose
+    author: J.A. Konrath
+    emoji: 🔪
+    finished: 20.10.23
+  -
+    title: Omnia
+    author: S. H. Jucha
+    emoji: 🔭
+    finished: 16.10.23
+  -
+    title: Labyrinth der Freiheit
+    author: Andreas Izquierdo
+    emoji: 📙
+    finished: 10.10.23
+  -
+    title: Die Insel der tausend Leuchttürme
+    author: Walter Moers
+    emoji: 🗼
+    finished: 18.09.23
+  -
+    title: The Consuming Fire
+    author: John Scalzi
+    emoji: 🥷🏻
+    finished: 10.09.23
+  -
+    title: The Collapsing Empire
+    author: John Scalzi
+    emoji: 🏯
+    finished: 05.09.23
+  -
+    title: Einsame Nacht
+    author: Charlotte Link
+    emoji: 🌑
+    finished: 24.08.23
+  -
+    title: Nano
+    author: Philip P. Peterson
+    emoji: 🧑🏽‍🔬
+    finished: 22.08.23
+  -
+    title: Celus-5
+    emoji: 🌍
+    author: S. H. Jucha
+    finished: 15.08.23
+  -
+    title: Allora
+    emoji: 🪐
+    author: S. H. Jucha
+    finished: 10.08.23
+  -
+    title: Espero
+    emoji: 🌌
+    author: S. H. Jucha
+    finished: 05.08.23
+  -
+    title: Hard-boiled Wonderland and the End of the World
+    author: Haruki Murakami
+    emoji: 🧮
+    finished: 30.07.23
+  -
+    title: Sol
+    emoji: 👨🏽‍🚀
+    author: S. H. Jucha
+    finished: 25.07.23
+  -
+    title: Haraken
+    emoji: 🌔
+    author: S. H. Jucha
+    finished: 21.07.23
+  -
+    title: The Picture of Dorian Gray
+    emoji: 👨🏻‍🎨
+    author: Oskar Wilde
+    finished: 18.07.23
+  -
+    title: Méridien
+    emoji: 🌑
+    author: S. H. Jucha
+    finished: 15.07.23
+  -
+    title: Schatten der Welt
+    emoji: 🪖
+    author: Andreas Isquierdo
+    finished: 13.07.23
+  -
+    title: Libre
+    emoji: 🪐
+    author: S. H. Jucha
+    finished: 11.07.23
+  -
+    title: The Silver Ships
+    emoji: 🛸
+    author: S. H. Jucha
+    finished: 09.07.23
+  -
+    title: In the Shadow of Young Girls in Flower
+    emoji: 🌼
+    author: Marcel Proust
+    finished: 08.07.23
   -
     title: "Humankind: A Hopeful History"
     emoji: 🫶🏻
     author: Rutger Bregman
+    finished: 02.07.23
+  -
+    title: Ein Hof und elf Geschwister
+    emoji: 🧑🏻‍🌾
+    author: Ewald Frie
     finished: 28.06.23
   -
     title: Swann's Way (Remembrance of Things Past 1)

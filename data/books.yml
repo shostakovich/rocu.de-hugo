@@ -1,6 +1,11 @@
 - year: 2024
   books:
   -
+    title: The Narrow Road Between Desires
+    emoji: 🌙
+    author: Patrick Rothfuss
+    finished: 15.02.24
+  -
     title: Outlive
     emoji: 🧬
     author: Peter Attia

@@ -1,6 +1,11 @@
 - year: 2024
   books:
   -
+    title: The Fellowship of the Ring
+    emoji: 🧝‍♂️
+    author: J.R.R. Tolkien
+    finished: 30.03.24
+  -
     title: "My Struggle: Book 4"
     emoji: 👨‍🏫
     author: Karl Ove Knausgård

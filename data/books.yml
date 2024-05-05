@@ -1,6 +1,11 @@
 - year: 2024
   books:
   -
+    title: Braiding Sweetgrass
+    emoji: 🌿
+    author: Robin Wall Kimmerer
+    finished: 05.05.24
+  -
     title: The Fellowship of the Ring
     emoji: 🧝‍♂️
     author: J.R.R. Tolkien

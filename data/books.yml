@@ -1,10 +1,15 @@
 - year: 2024
   books:
   -
+    title: Totenozean
+    emoji: 🌊
+    author: Kai Hirdt
+    finished: 30.05.24
+  -
     title: The Comfort Crisis
     emoji:  🗻
     author: Michael Easter
-    finished: 18.06.24
+    finished: 18.05.24
   -
     title: Im Aufrag des Daimyo
     emoji: 🇯🇵

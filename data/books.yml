@@ -1,6 +1,16 @@
 - year: 2024
   books:
   -
+    title: Der Jahrtausendirrtum
+    emoji: 🌌
+    author: Dietmar Schmidt
+    finished: 01.05.24
+  -
+    title: Der falsche Feind
+    emoji: 🤖
+    author: Madeleine Puljic
+    finished: 31.05.24
+  -
     title: Totenozean
     emoji: 🌊
     author: Kai Hirdt
